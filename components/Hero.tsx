@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg md:text-xl text-neutral-400 max-w-2xl mb-12 leading-relaxed font-light"
           >
-            Zyntract is an AI-powered Chrome Extension that automatically analyzes the DOM, generates resilient CSS selectors, and exports clean JSON or Puppeteer scripts. <span className="text-white font-medium">No guesswork.</span>
+            Zyntrakt is an AI-powered Chrome Extension that automatically analyzes the DOM, generates resilient CSS selectors, and exports clean JSON or Puppeteer scripts. <span className="text-white font-medium">No guesswork.</span>
           </motion.p>
 
           <motion.div 
@@ -91,7 +91,7 @@ const Hero: React.FC = () => {
                 <div className="flex-1 flex justify-center">
                   <div className="flex items-center gap-2 px-4 py-1.5 rounded-md bg-black/40 border border-white/5 text-xs text-neutral-500 font-mono w-full max-w-md text-center">
                     <span className="text-neutral-600">https://</span>
-                    <span className="text-white">zyntract.ai/demo</span>
+                    <span className="text-white">zyntrakt.ai/demo</span>
                   </div>
                 </div>
                 <div className="w-16"></div> {/* Spacer */}
@@ -136,7 +136,7 @@ const Hero: React.FC = () => {
                 <div className="md:col-span-4 bg-black/80 backdrop-blur-xl border-l border-white/10 p-0 flex flex-col font-mono text-xs relative">
                   {/* Sidebar Header */}
                   <div className="flex items-center gap-4 px-4 py-3 border-b border-white/10 bg-white/[0.02]">
-                    <div className="text-[10px] font-bold text-neutral-400 uppercase tracking-widest">Zyntract Console</div>
+                    <div className="text-[10px] font-bold text-neutral-400 uppercase tracking-widest">Zyntrakt Console</div>
                     <div className="ml-auto flex gap-2">
                        <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
                     </div>

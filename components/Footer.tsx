@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <div className="w-8 h-8 rounded-lg bg-white flex items-center justify-center text-black font-bold text-lg">
                 Z
               </div>
-              <span className="text-xl font-bold tracking-tight text-white">Zyntract</span>
+              <span className="text-xl font-bold tracking-tight text-white">Zyntrakt</span>
             </Link>
             <p className="text-neutral-500 text-sm leading-relaxed">
               Engineering modern websites into structured data. Built for developers, by developers.
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 border-t border-white/5 text-sm text-neutral-600">
-          <p>&copy; 2025 Zyntract Inc. All rights reserved.</p>
+          <p>&copy; 2025 Zyntrakt Inc. All rights reserved.</p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <Link href="#" className="hover:text-white transition-colors">Twitter</Link>
             <Link href="#" className="hover:text-white transition-colors">GitHub</Link>

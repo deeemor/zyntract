@@ -40,7 +40,7 @@ const ProductPreview: React.FC = () => {
             transition={{ delay: 0.1 }}
             className="text-neutral-400 text-lg mb-10 leading-relaxed max-w-xl"
           >
-            Zyntract visualizes the DOM structure in real-time. Hover over any element to see its unique selector, data attributes, and calculated path. It's like X-Ray vision for data extraction.
+            Zyntrakt visualizes the DOM structure in real-time. Hover over any element to see its unique selector, data attributes, and calculated path. It's like X-Ray vision for data extraction.
           </motion.p>
           
           <ul className="space-y-6">

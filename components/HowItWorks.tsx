@@ -8,12 +8,12 @@ const HowItWorks: React.FC = () => {
     {
       num: '01',
       title: 'Open Target Website',
-      description: 'Navigate to any page you want to scrape. Open the Zyntract extension sidebar.'
+      description: 'Navigate to any page you want to scrape. Open the Zyntrakt extension sidebar.'
     },
     {
       num: '02',
       title: 'AI Analysis',
-      description: 'Zyntract scans the DOM, identifying repeating patterns, tables, and product grids automatically.'
+      description: 'Zyntrakt scans the DOM, identifying repeating patterns, tables, and product grids automatically.'
     },
     {
       num: '03',

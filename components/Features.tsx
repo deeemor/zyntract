@@ -10,7 +10,7 @@ const Features: React.FC = () => {
     {
       icon: <Scan size={24} className="text-white" />,
       title: 'AI DOM Analysis',
-      description: 'Automatically detects lists, tables, and product grids. Zyntract understands the page structure like a human would.',
+      description: 'Automatically detects lists, tables, and product grids. Zyntrakt understands the page structure like a human would.',
       gradient: "from-blue-500/20 to-blue-500/0"
     },
     {
@@ -34,7 +34,7 @@ const Features: React.FC = () => {
     {
       icon: <Globe size={24} className="text-white" />,
       title: 'Works Everywhere',
-      description: 'React, Vue, Angular, or static HTML. Zyntract handles SPAs and dynamic content seamlessly.',
+      description: 'React, Vue, Angular, or static HTML. Zyntrakt handles SPAs and dynamic content seamlessly.',
       gradient: "from-cyan-500/20 to-cyan-500/0"
     },
     {
@@ -67,7 +67,7 @@ const Features: React.FC = () => {
             transition={{ delay: 0.1 }}
             className="text-neutral-400 text-lg"
           >
-            Stop writing brittle scrapers. Zyntract gives you the tools to build resilient data pipelines in seconds.
+            Stop writing brittle scrapers. Zyntrakt gives you the tools to build resilient data pipelines in seconds.
           </motion.p>
         </div>
 

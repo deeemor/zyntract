@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Zyntract - AI-Powered Data Extraction',
+  title: 'Zyntrakt - AI-Powered Data Extraction',
   description: 'Turn any website into structured data. AI-powered web scraping and DOM analysis for developers and data teams.',
 };
 

@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
                  Z
                </div>
             </div>
-            <span className="text-xl font-bold tracking-tight text-white group-hover:text-primary transition-colors">Zyntract</span>
+            <span className="text-xl font-bold tracking-tight text-white group-hover:text-primary transition-colors">Zyntrakt</span>
           </Link>
 
           {/* Desktop Links */}
